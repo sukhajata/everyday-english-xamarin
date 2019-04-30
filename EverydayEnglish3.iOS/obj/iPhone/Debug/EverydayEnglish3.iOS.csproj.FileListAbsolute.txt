@@ -1,0 +1,5 @@
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.iOS\obj\iPhone\Debug\optimized\
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.iOS\obj\iPhone\Debug\EverydayEnglish3.iOS.csprojResolveAssemblyReference.cache

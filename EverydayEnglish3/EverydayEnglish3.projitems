@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>e84f0f91-9809-494f-92b6-88a6c8825e98</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>EverydayEnglish3</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)App.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\MatchingPairsImageTextSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\ISlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\MatchingPairsImageSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\MatchingPairsSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\MatchingPairsWritingSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\MissingWordSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\MultipleChoiceImageSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\MultipleChoiceImageTextSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\MultipleChoiceTextSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\PhoneticsSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\Phrase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\SpeakingSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\TeachingSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\TraceWordSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\TranslatePhraseSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\WritingSlide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\Accuracy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\Category.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\LessonMedia.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\SlideWithMedia.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\Lesson.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\Media.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\Slide.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Data\SlideMedia.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GlobalData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\IContentManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\IDisplayDimensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\IFileHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\IAudioService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\IMessageSender.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\INetworkService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\ISQLiteHelper.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utility\Extensions.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Utility\JsonHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)GettingStarted.Xamarin" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\EverydayEnglish3.Windows.csprojResolveAssemblyReference.cache
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\App.g.i.cs
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\App.g.cs
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\MainPage.g.i.cs
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\MainPage.g.cs
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\App.xaml
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\MainPage.xaml
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\App.xbf
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\MainPage.xbf
+F:\EverydayEnglish3\EverydayEnglish3\EverydayEnglish3.Windows\obj\x86\Debug\XamlSaveStateFile.xml
